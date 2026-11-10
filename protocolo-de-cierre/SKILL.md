@@ -1,9 +1,9 @@
 ---
-name: cierre-de-sesion
+name: protocolo-de-cierre
 description: Protocolo de cierre de sesión. Úsalo cuando el usuario pida cerrar la sesión o hacer el cierre («cierre», «cerramos», «protocolo de cierre»). Ofrécelo tú, sin lanzarlo, cuando el usuario dé señales de que termina («lo dejo por hoy», «ya está», «cierro», «hasta mañana»). También cuando pida configurar o cambiar su cierre de sesión.
 ---
 
-# Cierre de sesión
+# Protocolo de cierre de sesión
 
 Sirve para que el trabajo de la sesión no se quede solo en la conversación y para que no queden
 restos: ficheros sueltos, procesos encendidos o datos sensibles donde no deben estar.
@@ -35,7 +35,7 @@ Con las respuestas, prepara este bloque:
 ```markdown
 ## Cierre de sesión
 
-Cuando dé señales de que termina, ofréceme el cierre de sesión (skill `cierre-de-sesion`).
+Cuando dé señales de que termina, ofréceme el cierre de sesión (skill `protocolo-de-cierre`).
 No lo lances sin mi sí.
 
 - Nombre: …
