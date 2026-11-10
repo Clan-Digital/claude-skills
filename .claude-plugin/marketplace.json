@@ -1,0 +1,13 @@
+{
+  "name": "clan-digital",
+  "owner": { "name": "Clan Digital", "url": "https://clandigital.es" },
+  "metadata": { "description": "Skills de Clan Digital para Claude" },
+  "plugins": [
+    {
+      "name": "cierre-de-sesion",
+      "source": "./plugins/cierre-de-sesion",
+      "description": "Cierre de sesión ordenado: tareas abiertas a tu herramienta de tareas, lecciones que recordar, datos sensibles y limpieza de restos de la sesión.",
+      "version": "1.0.0"
+    }
+  ]
+}
