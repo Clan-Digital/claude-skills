@@ -73,6 +73,11 @@ Cuando haya una versión nueva:
 ## Licencia
 
 © 2026 Clan Digital. Publicado con licencia
-[Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.es):
-puedes usar y adaptar estas skills citando a Clan Digital, pero no venderlas ni usarlas para
-prestar servicios a terceros. El texto completo está en [LICENSE](LICENSE).
+[Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+El texto completo está en [LICENSE](LICENSE).
+
+- **Puedes** instalar, usar y adaptar estas skills en tu propio trabajo, también en tu negocio.
+  Clan Digital te da permiso expreso para ese uso, aunque tu actividad sea comercial.
+- **No puedes** venderlas, redistribuirlas a cambio de dinero ni incluirlas en un producto o
+  servicio que ofrezcas a terceros sin permiso de Clan Digital.
+- Si compartes una versión adaptada, cita a Clan Digital como autor del original.
